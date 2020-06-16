@@ -2,9 +2,9 @@
 
 **Work in progress** — [please edit this document](https://github.com/WeTheCatalysts/standards-and-identifiers/blob/master/principles.md)
 
-1. Use established, open standards, avoid creating new ones
+1. Use established, open standards where available, avoid creating new ones
 2. Don’t try and model the world, allow for fuzzyness and caveats
-3. Monitor adoption, if standards are not taken up changes approach
+3. Monitor adoption, if standards are not taken up change approach
 4. Use formats that help get data to where users already are
 5. Be clear when a standard might be inappropriate to use
 6. Type of support, geography and audience should be clear
